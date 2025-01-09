@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Even - A super concise theme for Hugo</title>
+    <link>http://localhost:1313/post/</link>
+    <description>Recent content in Posts on Even - A super concise theme for Hugo</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 09 Jan 2025 06:54:33 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>newWorkStar</title>
+      <link>http://localhost:1313/post/newworkstar/</link>
+      <pubDate>Thu, 09 Jan 2025 06:52:00 +0800</pubDate>
+      <guid>http://localhost:1313/post/newworkstar/</guid>
+      <description>&lt;h2 id=&#34;电话给上游厂家&#34;&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt; 电话给上游厂家&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 昊源尿素厂&lt;/li&gt;&#xA;&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 华鲁尿素厂&#xA;&lt;ul&gt;&#xA;&lt;li&gt;谢彤 碳氨&lt;/li&gt;&#xA;&lt;li&gt;曹业林 尿素&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 中惠总部&#xA;-唐汉森 华鲁尿素&#xA;-高科 心连心工业尿素&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;[ ] 尿素群提取市场信息&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;各经营部业务经理&#34;&gt;各经营部业务经理&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 询库存&lt;/li&gt;&#xA;&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 询销售情况  价格  数量&lt;/li&gt;&#xA;&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; &lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;-&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MyFirstBlog</title>
+      <link>http://localhost:1313/post/myfirstblog/</link>
+      <pubDate>Sat, 28 Dec 2024 17:10:00 +0800</pubDate>
+      <guid>http://localhost:1313/post/myfirstblog/</guid>
+      <description>&lt;h2 id=&#34;淳果湾&#34;&gt;淳果湾&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;标题&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; &lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; &lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;农产品&#34;&gt;农产品&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;标题&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;种植技术&#34;&gt;种植技术&lt;/h2&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,109 @@
+#+hugo_base_dir: d:/yy66l/myblog-one/ 
+#+hugo_section: post
+#+hugo_auto_set_lastmod:t
+#+hugo_custom_front_matter: :author "liyongfu"
+#+hugo_code_fence:nil
+#+STARTUP: logdrawer
+* Blog Ideas
+** DONE MyFirstBlog
+CLOSED: [2024-12-28 Sat 17:10]
+:PROPERTIES:
+:EXPORT_FILE_NAME: myfirstblog
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2024-12-28 Sat 17:10]
+:END:
+
+*** 淳果湾
+   - 标题
+   - [ ] 
+   - [ ] 
+
+*** 农产品
+   - 标题
+*** 种植技术
+** TODO my-second-blog
+:PROPERTIES:
+:EXPORT_FILE_NAME: h
+:END:
+
+*** 销售情况
+  -【】尿素
+  -【】复合肥
+*** 回款情况
+*** 库存情况
+   - 尿素
+   - [ ] 复合肥
+** DONE my-third-blog
+CLOSED: [2025-01-08 Wed 18:03]
+:PROPERTIES:
+:EXPORT_FILE_NAME: my-third-blog
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2025-01-08 Wed 18:03]
+:END:
+
+*** 尿素销售
+
+*** 复合肥
+** DONE my-time
+CLOSED: [2025-01-08 Wed 18:19]
+:PROPERTIES:
+:EXPORT_FILE_NAME: my-time
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2025-01-08 Wed 18:19]
+:END:
+*** 我是一个农资销售员
+    - 日常主要工作
+    - [ ] 拜访农资店老板
+    - [ ] 咨询上游厂家价格
+    - [ ] 签订销售合同
+    - [ ] 回款
+
+*** 这就是我痛苦的过程
+** DONE my-work-time
+CLOSED: [2025-01-08 Wed 18:21]
+:PROPERTIES:
+:EXPORT_FILE_NAME: my-work-time
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2025-01-08 Wed 18:21]
+:END:
+*** 痛苦的生活
+*** 销售工作
+** DONE newWorkStar
+CLOSED: [2025-01-09 Thu 06:52]
+:PROPERTIES:
+:EXPORT_FILE_NAME: newworkstar
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2025-01-09 Thu 06:52]
+:END:
+*** DONE 电话给上游厂家
+CLOSED: [2025-01-09 Thu 06:52]
+:LOGBOOK:
+- State "DONE"       from              [2025-01-09 Thu 06:52]
+:END:
+   - [ ] 昊源尿素厂
+   - [ ] 华鲁尿素厂
+     - 谢彤 碳氨
+     - 曹业林 尿素
+   - [ ] 中惠总部
+     -唐汉森 华鲁尿素
+     -高科 心连心工业尿素
+   - [ ] 尿素群提取市场信息
+   -
+
+*** 各经营部业务经理
+   - [ ] 询库存
+   - [ ] 询销售情况  价格  数量
+   - [ ] 
+   -
+
+*** 对接销售客户
+   - [ ] 库存情况
+   - [ ] 销售情况
+   - [ ] 分享市场行情
+   - [ ] 销售定单
+   -  huikuan
